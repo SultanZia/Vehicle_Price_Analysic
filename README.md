@@ -74,4 +74,26 @@ Bar Chart: Average price by standard_make.
 
 Count Plot: Frequency of body_type.
 
+**Skills Demonstrated**
+
+
+Data Extraction: SQL querying from Auto Trader’s repository.
+
+Feature Engineering: Created age and encoded categorical variables.
+
+Data Cleaning: Managed missing values, outliers, and noise.
+
+EDA: Visualized trends with Python libraries.
+
+Tools: Python, Pandas, Matplotlib, Seaborn, SQLAlchemy.
+
+**Future Enhancements**
+
+Conduct statistical tests (e.g., ANOVA) on standard_make.
+
+Extend into predictive modeling .
+
+Author
+Mohammed Zia Sultan
+
 
