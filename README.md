@@ -53,6 +53,7 @@ Outliers: Treated extreme mileage values via boxplot-guided replacement or remov
 Noise: Corrected errors in reg_code and year_of_registration using replace() and map().
 
 **Key Insights**
+
 Mileage Impact: Correlation analysis showed a weak negative relationship (-0.052344) between mileage and price, confirmed by scatter plots.
 
 Age Effect: Vehicles with older year_of_registration (higher age) showed a slight positive correlation (0.021617) with price, possibly due to vintage value, per correlation data.
