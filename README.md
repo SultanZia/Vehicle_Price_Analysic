@@ -5,11 +5,13 @@ This project analyzes a real-time dataset of 400,000 used vehicles from Auto Tra
 
 
 **Objectives**
+
 Visualize and analyze factors influencing vehicle prices.
 Enhance data understanding through feature engineering and EDA.
 Clean and preprocess a noisy, real-world dataset.
 
 **Dataset**
+
 Source: Auto Trader (UK), extracted using SQL.
 Size: 400,000 rows, 14 columns.
 Features: Includes mileage (float), reg_code (object), standard_make (e.g., Renault), standard_model (e.g., Captur), year_of_registration, body_type, fuel_type, vehicle_condition, standard_colour, and others.
@@ -21,6 +23,7 @@ Over 25% noise: outliers, incorrect entries (e.g., future year_of_registration),
 
 
 **Methodology**
+
 **1. Exploratory Data Analysis (EDA)**
 Distributions: Histograms for mileage and boxplots to identify outliers.
 Relationships: Scatter plots (mileage vs. price) and bar charts (price by standard_make/standard_model).
@@ -43,9 +46,11 @@ Age Effect: Vehicles with older year_of_registration (higher age) showed a sligh
 Data Quality: Boxplots revealed significant outliers in mileage, necessitating preprocessing to address >25% noise.
 
 **Repository Contents**
+
 vehicle_price_analysis_eda.ipynb: Jupyter Notebook with SQL extraction, EDA, feature engineering, and preprocessing.
 
 **Visualizations**
+
 Scatter Plot: mileage vs. price for correlation.
 Boxplot: mileage outlier detection.
 Bar Chart: Average price by standard_make.
