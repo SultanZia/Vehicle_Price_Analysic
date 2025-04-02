@@ -1,5 +1,4 @@
-# Vehicle_Price_Analysic
-Auto Trader Vehicle Price Analysis with EDA
+
 **Overview**
 This project analyzes a real-time dataset of 400,000 used vehicles from Auto Trader, extracted via SQL, to explore pricing trends in the UK market. With 14 columns and significant data challenges (>10% missing values, >25% noise), I applied Exploratory Data Analysis (EDA), feature engineering, and preprocessing to uncover patterns and ensure data quality. This work showcases my ability to wrangle large, messy datasets and derive insights using Python, making it a valuable addition to my portfolio for job applications.
 
