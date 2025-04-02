@@ -52,8 +52,11 @@ vehicle_price_analysis_eda.ipynb: Jupyter Notebook with SQL extraction, EDA, fea
 **Visualizations**
 
 Scatter Plot: mileage vs. price for correlation.
+
 Boxplot: mileage outlier detection.
+
 Bar Chart: Average price by standard_make.
+
 Count Plot: Frequency of body_type.
 
 
