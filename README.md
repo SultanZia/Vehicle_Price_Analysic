@@ -20,6 +20,8 @@ Size: 400,000 rows, 14 columns.
 
 Features: Includes mileage (float), reg_code (object), standard_make (e.g., Renault), standard_model (e.g., Captur), year_of_registration, body_type, fuel_type, vehicle_condition, standard_colour, and others.
 
+Vehicle Dataset (https://drive.google.com/file/d/1GC5Lex-jhpFwN_AHMz3YxkovWJsG0Qvd/view?usp=sharing)
+
 
 **Challenges:**
 Over 10% missing values (NaN).
